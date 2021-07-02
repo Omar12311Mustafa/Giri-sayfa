@@ -1,0 +1,11 @@
+C:\Users\Omer\OneDrive\İş masası\Kartal\obj\Debug\Kartal.csprojAssemblyReference.cache
+C:\Users\Omer\OneDrive\İş masası\Kartal\obj\Debug\Kartal.Form1.resources
+C:\Users\Omer\OneDrive\İş masası\Kartal\obj\Debug\Kartal.Properties.Resources.resources
+C:\Users\Omer\OneDrive\İş masası\Kartal\obj\Debug\Kartal.csproj.GenerateResource.cache
+C:\Users\Omer\OneDrive\İş masası\Kartal\obj\Debug\Kartal.csproj.CoreCompileInputs.cache
+C:\Users\Omer\OneDrive\İş masası\Kartal\obj\Debug\Kartal.Form2.resources
+C:\Users\Omer\OneDrive\İş masası\Kartal\bin\Debug\Kartal.exe.config
+C:\Users\Omer\OneDrive\İş masası\Kartal\bin\Debug\Kartal.exe
+C:\Users\Omer\OneDrive\İş masası\Kartal\bin\Debug\Kartal.pdb
+C:\Users\Omer\OneDrive\İş masası\Kartal\obj\Debug\Kartal.exe
+C:\Users\Omer\OneDrive\İş masası\Kartal\obj\Debug\Kartal.pdb
